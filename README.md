@@ -4,7 +4,7 @@
 [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTE3ZTQwMGEtZDVlZC00OThjLWEzMGUtNjBhNmYwMzQzZDdmIiwidCI6ImJkMDNhNzM1LTJhYTMtNGNjYS05NzIyLTJhZTQ5MjlhYjNlYyIsImMiOjEwfQ%3D%3D)
 
 ## Project Description:
-An interactive Power BI dashboard that analyzes a dataset of 954 records containing [Spotify's most streamed songs of 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023). The dashboard provides insights into streaming patterns, track release trends, top-performing songs and artists, and musical characteristics of the tracks.
+An interactive Power BI dashboard that analyzes a dataset of 953 records containing [Spotify's most streamed songs of 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023). The dashboard provides insights into streaming patterns, track release trends, top-performing songs and artists, and musical characteristics of the tracks.
 
 ## Key Features:
 - **Stream Trends:** Displays a line graph showing streaming trends which can be filtered by year, month, and day for a more granular view.
