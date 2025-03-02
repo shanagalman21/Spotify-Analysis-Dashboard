@@ -1,6 +1,7 @@
 # Spotify-Analysis-Dashboard
 
-[![Power BI Dashboard](![dashboard](https://github.com/user-attachments/assets/465ecb4a-449c-4062-b216-8c74215ec31c))](https://app.powerbi.com/view?r=eyJrIjoiNTE3ZTQwMGEtZDVlZC00OThjLWEzMGUtNjBhNmYwMzQzZDdmIiwidCI6ImJkMDNhNzM1LTJhYTMtNGNjYS05NzIyLTJhZTQ5MjlhYjNlYyIsImMiOjEwfQ%3D%3D)
+![dashboard](https://github.com/user-attachments/assets/161c1f50-a895-4be1-9a75-cc340dc3a35b)
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTE3ZTQwMGEtZDVlZC00OThjLWEzMGUtNjBhNmYwMzQzZDdmIiwidCI6ImJkMDNhNzM1LTJhYTMtNGNjYS05NzIyLTJhZTQ5MjlhYjNlYyIsImMiOjEwfQ%3D%3D)
 
 ## Project Description:
 This is a Power BI dashboard that analyzes a dataset containing [Spotify's most streamed songs of 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023). The dashboard provides insights into streaming patterns, track release trends, top-performing songs and artists, and musical characteristics of the tracks.
