@@ -38,8 +38,8 @@ def get_track_details(track_id, token):
     return image_url
 
 # Your Spotify API Credentials
-client_id = '273965c814d2415692155c7249e14f1a'
-client_secret = '05cfc0d108054ea5894a7789d29494f9'
+client_id = 'CHANGE THIS VALUE'
+client_secret = 'CHANGE THIS VALUE'
 
 # Get Access Token
 access_token = get_spotify_token(client_id, client_secret)
