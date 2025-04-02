@@ -1,4 +1,4 @@
-# Spotify-Analysis-Dashboard
+# Spotify Analysis Dashboard
 
 ## Overview
 An interactive Power BI dashboard that analyzes a dataset of 953 records containing [Spotify's most streamed songs of 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023). The dashboard provides insights into streaming patterns, track release trends, top-performing songs and artists, and musical characteristics of the tracks.
